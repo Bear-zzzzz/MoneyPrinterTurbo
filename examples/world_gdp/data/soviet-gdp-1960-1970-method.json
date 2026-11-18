@@ -1,0 +1,203 @@
+{
+  "country": "苏联 / USSR",
+  "estimated_years": [
+    1960,
+    1969
+  ],
+  "source_anchor_year": 1970,
+  "anchor_usd": 433412461168.88885,
+  "created_on": "2026-11-17",
+  "user_authorized_estimation": true,
+  "method": "UN 1970 dollar anchor × USSR real-output ratio × assumed US dollar-price-deflator ratio",
+  "formula": "E_t = UN_USD_1970 * (Q_t/Q_1970) * (mean_GDPDEF_t/mean_GDPDEF_1970)",
+  "display_label": "苏联 GDP ≈；1960—1969 为模型估算",
+  "sources": [
+    {
+      "name": "UN National Accounts Main Aggregates, USSR (Former), current USD",
+      "url": "https://unstats.un.org/unsd/amaapi/api/file/2"
+    },
+    {
+      "name": "Maddison Project Database 2023, processed by OWID, USSR real-output growth proxy",
+      "url": "https://ourworldindata.org/grapher/gdp-maddison-project-database",
+      "unit": "international dollars at 2011 prices; used only as within-country ratios, never directly as market USD"
+    },
+    {
+      "name": "BEA US GDP implicit price deflator, GDPDEF via FRED",
+      "annual_aggregation": "Arithmetic mean of four quarterly GDPDEF observations; proxy, not a separately downloaded annual BEA series",
+      "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=GDPDEF&cosd=1960-01-01&coed=1970-12-31"
+    }
+  ],
+  "limitations": [
+    "1960-1969 values are illustrative model backcasts, not observed Soviet nominal GDP or historically reconstructed ruble-to-dollar conversions.",
+    "US price changes are an explicit proxy assumption; Soviet relative prices and exchange rates are not recovered by this model.",
+    "Maddison real-output ratios are themselves historical estimates and depend on the dataset vintage.",
+    "1970 anchor is the UN-published historical USD conversion; it is not assumed to equal other research databases' estimates.",
+    "Do not claim precise ranking for closely sized economies without sensitivity review.",
+    "constant_price_proxy_usd is a flat-price alternative for sensitivity, not another observed nominal series or a statistical confidence interval.",
+    "The global ranking files are not modified by this estimator; any later integration must preserve estimated status."
+  ],
+  "input_sha256": {
+    "un-historical-gdp.json": "46695bb4f0da1dee3e883d6d5cc394230c4896fe09e4b701619e2e98422e3d67",
+    "raw/maddison-owid-gdp.csv": "86b1fae7e6219f258613367599f659cf15d752be3aef13231c9d814ac444fbd7",
+    "raw/maddison-owid-gdp.metadata.json": "d78982bb739ed801357d28b0d0aadda6c4062b8d4dbf41f3e3e07f42e2059520",
+    "raw/fred-gdpdef-1960-1970.csv": "e1fe950154eacf071821f62829bf5e7a719080920418a21057b85d4c5ea02cb7"
+  },
+  "inputs": [
+    {
+      "year": 1960,
+      "soviet_real_output_international_dollars": 1344248640000.0,
+      "us_deflator_proxy_quarterly_mean": 15.495250000000002
+    },
+    {
+      "year": 1961,
+      "soviet_real_output_international_dollars": 1421480776000.0,
+      "us_deflator_proxy_quarterly_mean": 15.65925
+    },
+    {
+      "year": 1962,
+      "soviet_real_output_international_dollars": 1459876973000.0,
+      "us_deflator_proxy_quarterly_mean": 15.850249999999999
+    },
+    {
+      "year": 1963,
+      "soviet_real_output_international_dollars": 1426563920000.0,
+      "us_deflator_proxy_quarterly_mean": 16.031
+    },
+    {
+      "year": 1964,
+      "soviet_real_output_international_dollars": 1611191048000.0,
+      "us_deflator_proxy_quarterly_mean": 16.27575
+    },
+    {
+      "year": 1965,
+      "soviet_real_output_international_dollars": 1702799531000.0,
+      "us_deflator_proxy_quarterly_mean": 16.572499999999998
+    },
+    {
+      "year": 1966,
+      "soviet_real_output_international_dollars": 1785145323000.0,
+      "us_deflator_proxy_quarterly_mean": 17.037249999999997
+    },
+    {
+      "year": 1967,
+      "soviet_real_output_international_dollars": 1864068930000.0,
+      "us_deflator_proxy_quarterly_mean": 17.5315
+    },
+    {
+      "year": 1968,
+      "soviet_real_output_international_dollars": 1973355036000.0,
+      "us_deflator_proxy_quarterly_mean": 18.277250000000002
+    },
+    {
+      "year": 1969,
+      "soviet_real_output_international_dollars": 2001067237000.0,
+      "us_deflator_proxy_quarterly_mean": 19.1755
+    },
+    {
+      "year": 1970,
+      "soviet_real_output_international_dollars": 2154659508000.0,
+      "us_deflator_proxy_quarterly_mean": 20.188499999999998
+    }
+  ],
+  "estimates": [
+    {
+      "year": 1960,
+      "value_usd": 207537645153.49316,
+      "display_billion_usd": 207.5,
+      "constant_price_proxy_usd": 270397299119.49115,
+      "real_output_ratio": 0.6238798450562426,
+      "dollar_price_proxy_ratio": 0.7675285434777227,
+      "status": "estimated"
+    },
+    {
+      "year": 1961,
+      "value_usd": 221784218462.17065,
+      "display_billion_usd": 221.8,
+      "constant_price_proxy_usd": 285932640096.01556,
+      "real_output_ratio": 0.659724086669939,
+      "dollar_price_proxy_ratio": 0.7756519800876738,
+      "status": "estimated"
+    },
+    {
+      "year": 1962,
+      "value_usd": 230553153213.1728,
+      "display_billion_usd": 230.6,
+      "constant_price_proxy_usd": 293656083256.99207,
+      "real_output_ratio": 0.677544163047408,
+      "dollar_price_proxy_ratio": 0.7851128117492633,
+      "status": "estimated"
+    },
+    {
+      "year": 1963,
+      "value_usd": 227861284537.77856,
+      "display_billion_usd": 227.9,
+      "constant_price_proxy_usd": 286955120883.9712,
+      "real_output_ratio": 0.6620832269336915,
+      "dollar_price_proxy_ratio": 0.7940659286227308,
+      "status": "estimated"
+    },
+    {
+      "year": 1964,
+      "value_usd": 261280345653.98618,
+      "display_billion_usd": 261.3,
+      "constant_price_proxy_usd": 324093099134.3256,
+      "real_output_ratio": 0.7477706069185572,
+      "dollar_price_proxy_ratio": 0.8061891671000817,
+      "status": "estimated"
+    },
+    {
+      "year": 1965,
+      "value_usd": 281170815779.2535,
+      "display_billion_usd": 281.2,
+      "constant_price_proxy_usd": 342520260332.44586,
+      "real_output_ratio": 0.7902870614487828,
+      "dollar_price_proxy_ratio": 0.820888129380588,
+      "status": "estimated"
+    },
+    {
+      "year": 1966,
+      "value_usd": 303034282922.8815,
+      "display_billion_usd": 303.0,
+      "constant_price_proxy_usd": 359084219623.97644,
+      "real_output_ratio": 0.828504604264369,
+      "dollar_price_proxy_ratio": 0.843908660871288,
+      "status": "estimated"
+    },
+    {
+      "year": 1967,
+      "value_usd": 325611500147.9761,
+      "display_billion_usd": 325.6,
+      "constant_price_proxy_usd": 374959802112.6209,
+      "real_output_ratio": 0.8651338752498615,
+      "dollar_price_proxy_ratio": 0.8683904202887784,
+      "status": "estimated"
+    },
+    {
+      "year": 1968,
+      "value_usd": 359364168229.23535,
+      "display_billion_usd": 359.4,
+      "constant_price_proxy_usd": 396942839338.29846,
+      "real_output_ratio": 0.915854699395966,
+      "dollar_price_proxy_ratio": 0.9053297669465292,
+      "status": "estimated"
+    },
+    {
+      "year": 1969,
+      "value_usd": 382320045994.6912,
+      "display_billion_usd": 382.3,
+      "constant_price_proxy_usd": 402517183310.15216,
+      "real_output_ratio": 0.9287162215516049,
+      "dollar_price_proxy_ratio": 0.9498229189885332,
+      "status": "estimated"
+    },
+    {
+      "year": 1970,
+      "value_usd": 433412461168.88885,
+      "display_billion_usd": 433.4,
+      "constant_price_proxy_usd": 433412461168.88885,
+      "real_output_ratio": 1.0,
+      "dollar_price_proxy_ratio": 1.0,
+      "status": "source_published"
+    }
+  ]
+}

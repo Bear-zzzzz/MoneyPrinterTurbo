@@ -1,0 +1,34 @@
+{
+  "created_on": "2026-11-18",
+  "output": "world-gdp-stock-fire-v16-preview.mp4",
+  "duration_seconds": 5,
+  "global_time_range": [
+    78.0,
+    83.0
+  ],
+  "focus_country": "CHN",
+  "source_title": "Burning flames on a black background",
+  "provider": "Mixkit",
+  "asset_id": 3759,
+  "source_page": "https://mixkit.co/free-stock-video/burning-flames-on-a-black-background-3759/",
+  "source_sha256": "5a9dc1a8d6af286c2ded70473720d1d18b8b181cd994baeafffa9a3f3b6ac77f",
+  "license": "Mixkit Stock Video Free License",
+  "license_record": "vfx-research/mixkit/free-license.html",
+  "terms_record": "vfx-research/mixkit/terms.html",
+  "original_has_alpha": false,
+  "alpha_method": "Black-background matte, maxRGB alpha with unpremultiplied foreground; no native-alpha claim",
+  "crop_source_pixels": [
+    350,
+    240,
+    580,
+    480
+  ],
+  "uniform_tile_size": [
+    53,
+    44
+  ],
+  "placement": "Repeat actual stock tiles along bar upper edge, stagger source frame, edge feather, clip bar length, mask digits and names",
+  "original_assets_excluded_from_share_backup": true,
+  "full_film_updated": false,
+  "audio_streams": 0
+}

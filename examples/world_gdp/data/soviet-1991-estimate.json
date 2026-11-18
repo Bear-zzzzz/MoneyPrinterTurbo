@@ -1,0 +1,15 @@
+{
+  "value_usd": 776773717020.8386,
+  "anchor_1990_usd": 790484356841.7296,
+  "real_ratio": 0.9505704698866846,
+  "price_ratio": 1.033753335497279,
+  "status": "estimated",
+  "year": 1991,
+  "formula": "UN1990_USD × USSR_real1991/real1990 × mean_GDPDEF1991/mean_GDPDEF1990",
+  "limits": "Model approximation; dollar-price proxy not actual Soviet exchange rate.",
+  "input_sha256": {
+    "un-historical-gdp.json": "46695bb4f0da1dee3e883d6d5cc394230c4896fe09e4b701619e2e98422e3d67",
+    "raw/maddison-owid-gdp.csv": "86b1fae7e6219f258613367599f659cf15d752be3aef13231c9d814ac444fbd7",
+    "raw/fred-gdpdef-1960-1992.csv": "8465c449869415d152f4468b113eac213ba05d3582d8929ce7313be99526d2ef"
+  }
+}

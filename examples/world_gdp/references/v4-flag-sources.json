@@ -1,0 +1,37 @@
+[
+  {
+    "asset": "ESP.png",
+    "url": "https://flagcdn.com/w160/es.png",
+    "sha256": "f08d4200bb64066e6d43487b1cbb04cce1e3bac59546258cc206caaf99fe3a72"
+  },
+  {
+    "asset": "KOR.png",
+    "url": "https://flagcdn.com/w160/kr.png",
+    "sha256": "983cabccf4632413c7880b58f6b41636584f0d24989379f454bb6bc082821f81"
+  },
+  {
+    "asset": "MEX.png",
+    "url": "https://flagcdn.com/w160/mx.png",
+    "sha256": "2ed5ac817849b95fe11ffab4d61afdf9f7236f80429dec55299f4da38bd73ccb"
+  },
+  {
+    "asset": "RUS.png",
+    "url": "https://flagcdn.com/w160/ru.png",
+    "sha256": "3f5b2499914481232f95d67c4264322724e68867e500f3c2c4e957a6f9871f65"
+  },
+  {
+    "asset": "BRA_1968_1992.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/330px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png",
+    "sha256": "6b345f9734042d396f897987bda839aafc0200b5cb61ad9b5021c19dba87d890"
+  },
+  {
+    "asset": "RUS_1991_1993.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Russia_%281991%E2%80%931993%29.svg/330px-Flag_of_Russia_%281991%E2%80%931993%29.svg.png",
+    "sha256": "341bc6eae567fc0ec6a5615ad73f0432a15f495bbf0fdac9ca06e3709f943641"
+  },
+  {
+    "asset": "ESP_1977_1981.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Spain_%281977%E2%80%931981%29.svg/330px-Flag_of_Spain_%281977%E2%80%931981%29.svg.png",
+    "sha256": "f41768d96c0de1926c39763fb7faa4e28c1f790980e442dc3f1ece3701710eb6"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "checked_on": "2026-11-18",
+  "assets": [
+    {
+      "id": 3759,
+      "title": "Burning flames on a black background",
+      "filename": "mixkit-3759.mp4",
+      "page": "https://mixkit.co/free-stock-video/burning-flames-on-a-black-background-3759/",
+      "download_entry": "https://mixkit.co/free-stock-video/download/3759/?context=sidebar&type=720p",
+      "sha256": "5a9dc1a8d6af286c2ded70473720d1d18b8b181cd994baeafffa9a3f3b6ac77f",
+      "size_bytes": 4828800,
+      "license": "Mixkit Stock Video Free License",
+      "license_page": "https://mixkit.co/license/#videoFree",
+      "local_only": true,
+      "original_has_alpha": false
+    },
+    {
+      "id": 52302,
+      "title": "Blazing flames flowing in slow motion over a black background",
+      "filename": "mixkit-52302.mp4",
+      "page": "https://mixkit.co/free-stock-video/blazing-flames-flowing-in-slow-motion-over-a-black-background-52302/",
+      "download_entry": "https://mixkit.co/free-stock-video/download/52302/?context=sidebar&type=720p",
+      "sha256": "b3637d6b2fd2181c44c95acc6d3fa2d24b9a64a39e2ade2071b8fe10e60bfe5c",
+      "size_bytes": 9760170,
+      "license": "Mixkit Stock Video Free License",
+      "license_page": "https://mixkit.co/license/#videoFree",
+      "local_only": true,
+      "original_has_alpha": false
+    }
+  ]
+}

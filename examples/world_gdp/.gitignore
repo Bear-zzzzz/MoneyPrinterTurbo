@@ -1,0 +1,6 @@
+/output/*
+!/output/.gitkeep
+/assets/local-only/*
+!/assets/local-only/.gitkeep
+__pycache__/
+*.pyc

@@ -1,0 +1,635 @@
+{
+  "created_on": "2026-11-18",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "size_bytes": 131,
+      "sha256": "3d7891a40fab631663a7e9834fbbae16cb566dee0f935e35542440c14ddba7f6"
+    },
+    {
+      "path": ".gitignore",
+      "size_bytes": 97,
+      "sha256": "106054a5b0fc5cb4af49f72198f795953119dd146d642740988a3fe1ca264401"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 4854,
+      "sha256": "f0b7cb4db974133c6cc0778d693f13da65560907b4580c79b3bcb1b03f6e4370"
+    },
+    {
+      "path": "assets/flags/BRA.png",
+      "size_bytes": 1226,
+      "sha256": "8512b3a0d591b84adfc78469211ffd1727f9a5e7db06fe9f046e7eb51e626792"
+    },
+    {
+      "path": "assets/flags/BRA_1968_1992.png",
+      "size_bytes": 12677,
+      "sha256": "6b345f9734042d396f897987bda839aafc0200b5cb61ad9b5021c19dba87d890"
+    },
+    {
+      "path": "assets/flags/CAN.png",
+      "size_bytes": 699,
+      "sha256": "e36b7fbd7218d785e18143d5a8ddffbab41188b6cf8d0115e2d7ff555560706e"
+    },
+    {
+      "path": "assets/flags/CHN.png",
+      "size_bytes": 533,
+      "sha256": "778ca166d19bee6fb75cb4995d90acaec2589ce6e9db8720b1df79eecaf523a4"
+    },
+    {
+      "path": "assets/flags/DEU.png",
+      "size_bytes": 119,
+      "sha256": "ef579f50dd92e3a70b89407c6e1858383cd7a58d7c9e07fccd8afb923b1867ff"
+    },
+    {
+      "path": "assets/flags/ESP.png",
+      "size_bytes": 1355,
+      "sha256": "f08d4200bb64066e6d43487b1cbb04cce1e3bac59546258cc206caaf99fe3a72"
+    },
+    {
+      "path": "assets/flags/ESP_1977_1981.png",
+      "size_bytes": 23483,
+      "sha256": "f41768d96c0de1926c39763fb7faa4e28c1f790980e442dc3f1ece3701710eb6"
+    },
+    {
+      "path": "assets/flags/FRA.png",
+      "size_bytes": 150,
+      "sha256": "cadee3fa97d9f93ff456fba1a0b23392741b6b16f628b87740159453aa4fed79"
+    },
+    {
+      "path": "assets/flags/GBR.png",
+      "size_bytes": 547,
+      "sha256": "62bc061bdc7296b2f47a3e3227fd423a66e6384c43608297775ab31984f75aae"
+    },
+    {
+      "path": "assets/flags/IND.png",
+      "size_bytes": 651,
+      "sha256": "2d21b5bae83706eeb221cdb34c9b67535e920847f5566b00fa66479d7a3aad84"
+    },
+    {
+      "path": "assets/flags/ITA.png",
+      "size_bytes": 155,
+      "sha256": "1dfb9ea9cb89097836d39c0902c0a7283bbd7d222d80c1ddc990899717b1ae0e"
+    },
+    {
+      "path": "assets/flags/JPN.png",
+      "size_bytes": 549,
+      "sha256": "5b1b16b2ce91a6c214576f10b5cb135ef92ad29eb7f79462f98fb72f8f9ad3c7"
+    },
+    {
+      "path": "assets/flags/KOR.png",
+      "size_bytes": 1391,
+      "sha256": "983cabccf4632413c7880b58f6b41636584f0d24989379f454bb6bc082821f81"
+    },
+    {
+      "path": "assets/flags/MEX.png",
+      "size_bytes": 1253,
+      "sha256": "2ed5ac817849b95fe11ffab4d61afdf9f7236f80429dec55299f4da38bd73ccb"
+    },
+    {
+      "path": "assets/flags/RUS.png",
+      "size_bytes": 147,
+      "sha256": "3f5b2499914481232f95d67c4264322724e68867e500f3c2c4e957a6f9871f65"
+    },
+    {
+      "path": "assets/flags/RUS_1991_1993.png",
+      "size_bytes": 341,
+      "sha256": "341bc6eae567fc0ec6a5615ad73f0432a15f495bbf0fdac9ca06e3709f943641"
+    },
+    {
+      "path": "assets/flags/SUN.png",
+      "size_bytes": 1732,
+      "sha256": "77a5c7d7bdf726ee6ad638da9f5b4a3e1258ee2de06bc3f847f5419dbb007e0d"
+    },
+    {
+      "path": "assets/flags/USA.png",
+      "size_bytes": 629,
+      "sha256": "bb1d77351f006b1ca0fc414314388da9f8cb7bd940a4d59770328e8ca03e8439"
+    },
+    {
+      "path": "data/all-gdp-source-records-1960-2025.csv",
+      "size_bytes": 1004176,
+      "sha256": "a4f8ce7d3cc7dd5c0968fa70f910aa82d56ad88c7f73e05aa5e2dbc478bd5935"
+    },
+    {
+      "path": "data/estimate_soviet.py",
+      "size_bytes": 6702,
+      "sha256": "24f00af71955840354f91a998006bc6db5d19a30ddfc097a6c168a8cf880f8fc"
+    },
+    {
+      "path": "data/prepare.py",
+      "size_bytes": 3146,
+      "sha256": "032f72578214831eb1291a99f3efd1c530d8698de67da5f9c114a2c18d6d72d6"
+    },
+    {
+      "path": "data/raw/demo-events-1970-1971.json",
+      "size_bytes": 12276,
+      "sha256": "c2854e4290b173ab9fd11b9f296fa32a50a906574aadd6cc292af65a4c737965"
+    },
+    {
+      "path": "data/raw/demo-events-1970-1975.json",
+      "size_bytes": 13578,
+      "sha256": "b3353a0476eae4ab4d9defdcf38a8d51d911dfd479b24478efc9a4f444e1ffe4"
+    },
+    {
+      "path": "data/raw/demo-events-1973-1974.json",
+      "size_bytes": 22689,
+      "sha256": "a2ad80abab74d0beae4f930c20100e5a3b54bcad6c2669d1e1df2712a13cd49a"
+    },
+    {
+      "path": "data/raw/economic-events/1960-1965.json",
+      "size_bytes": 20897,
+      "sha256": "37d4e2f7d31f185a813eeb032cd00d74e21ce434380368fb7e830dbe068ad94a"
+    },
+    {
+      "path": "data/raw/economic-events/1966-1970.json",
+      "size_bytes": 9090,
+      "sha256": "8360b7978d3119f02783fcd74bd67dc3cfd1bdf657e93792648c7b46f080c4c4"
+    },
+    {
+      "path": "data/raw/economic-events/1971-1977.json",
+      "size_bytes": 17755,
+      "sha256": "2e0ed8ea8048c5d0dc3a0c5749c034b193a172de84c88f93dff6996b2e0529e2"
+    },
+    {
+      "path": "data/raw/economic-events/1978-1987.json",
+      "size_bytes": 10521,
+      "sha256": "6979b05ac6e5073e2d6852d52093955f0371ac988e349851a69e7c32edb25172"
+    },
+    {
+      "path": "data/raw/economic-events/1988-1993.json",
+      "size_bytes": 10403,
+      "sha256": "46f4cb794d65ea55cdd557988a78d372a259ffde67d7a437448024a5747de76f"
+    },
+    {
+      "path": "data/raw/economic-events/1994-2000.json",
+      "size_bytes": 12613,
+      "sha256": "9ae75058cc31e4b55ea2ed731b182264eaf0a9a2f698aac1be2280e93f5f16e1"
+    },
+    {
+      "path": "data/raw/economic-events/2001-2006.json",
+      "size_bytes": 15342,
+      "sha256": "d5ddb9ac92e4626ab7d6977de43c235278755b9541c116a19c763393dac8de96"
+    },
+    {
+      "path": "data/raw/economic-events/2007-2012.json",
+      "size_bytes": 16791,
+      "sha256": "a1d7bf4eefcf380a8212537f16841973c75b132939b76ff2b22955b727f9a974"
+    },
+    {
+      "path": "data/raw/economic-events/2013-2017.json",
+      "size_bytes": 11300,
+      "sha256": "203901434901684d7ffad1688a46375ed7a138056d0ef18f8d5045c237a1eed1"
+    },
+    {
+      "path": "data/raw/economic-events/2018-2022.json",
+      "size_bytes": 16944,
+      "sha256": "9b2b4f06179fd58be0503b353935a42e43c0e35d4ace809307c9cb508c9d69f0"
+    },
+    {
+      "path": "data/raw/economic-events/2023-2025.json",
+      "size_bytes": 13677,
+      "sha256": "a1f92247b43c460a6478902b0962c7d4c22047c8b2d912ed45c6340479d2df6d"
+    },
+    {
+      "path": "data/raw/economic-events/bank-policy-2023-2024.json",
+      "size_bytes": 8430,
+      "sha256": "dc90e1b4e159570cbe825b330c192720f0a3a292deefae6f19f03ab0a1d06183"
+    },
+    {
+      "path": "data/raw/economic-events/banking-2023-primary.json",
+      "size_bytes": 19172,
+      "sha256": "f1cc001be37127c8eaf7a2d3fe2e4f354c82b7f4593a1a1f92584317a5d90da5"
+    },
+    {
+      "path": "data/raw/economic-events/basel-oil-primary.json",
+      "size_bytes": 15050,
+      "sha256": "fe15cf8f27c4d2deb3c9e0f5a9100fb0def81911512691f11f0e3c9a53e2c1db"
+    },
+    {
+      "path": "data/raw/economic-events/euro-history-dates.json",
+      "size_bytes": 9938,
+      "sha256": "8d01780318c83659095c2151f154cc769641d66017b273259eaabd2bdd2ae082"
+    },
+    {
+      "path": "data/raw/economic-events/euro-tariff-history.json",
+      "size_bytes": 11826,
+      "sha256": "19f0ad849fe7436bd9be198db825f5004d776ab54da8ce59079e9513e6ae3be9"
+    },
+    {
+      "path": "data/raw/economic-events/euro-years-primary.json",
+      "size_bytes": 14347,
+      "sha256": "e569b61aa3fbc4907a368881be1cf44feeb74e64978dd6118553a023a05d7c1b"
+    },
+    {
+      "path": "data/raw/economic-events/europe-economy.json",
+      "size_bytes": 17123,
+      "sha256": "100fc630c6b1e8d461ad689302c5fd92de398577e04e99610239df7ad06207fd"
+    },
+    {
+      "path": "data/raw/economic-events/fed-cycles.json",
+      "size_bytes": 16655,
+      "sha256": "14e38f94d7b5481918be454a2708f4f6083e3286be88fdd4b6d7922c6caa663c"
+    },
+    {
+      "path": "data/raw/economic-events/imf-chronology.txt",
+      "size_bytes": 15716,
+      "sha256": "1589a00f97ae4b583befb522f5f5453398de6409a68a08ecd85e1aba8763ea00"
+    },
+    {
+      "path": "data/raw/economic-events/market-shocks.json",
+      "size_bytes": 16234,
+      "sha256": "9829353de65fd6468ff7e02619a674bd43f146378b1e54d2c4ddcc9eb84cc445"
+    },
+    {
+      "path": "data/raw/economic-events/oecd-cap-primary.json",
+      "size_bytes": 5734,
+      "sha256": "f2dae46522c8cf298aa72622c7e3542aea78dc7b377fe90cc7659ae4e0ada650"
+    },
+    {
+      "path": "data/raw/economic-events/oil-asia-history.json",
+      "size_bytes": 15874,
+      "sha256": "a4309ef53485f4d4d0342e33a757f7224cfa01107947ac08dd172df233596c44"
+    },
+    {
+      "path": "data/raw/economic-events/rmb-brexit-primary.json",
+      "size_bytes": 11124,
+      "sha256": "5d43e90b51a6aadb53ce2553220f8394c7477d7f1b11027b82287b93c6fbbd2a"
+    },
+    {
+      "path": "data/raw/economic-events/tariffs-2018-dates.json",
+      "size_bytes": 11450,
+      "sha256": "5f210122f7eb28b6a0d1daa62d2adb40a721ef6ae4714ee15cd1a79794d319b9"
+    },
+    {
+      "path": "data/raw/economic-events/trade-years-primary.json",
+      "size_bytes": 18173,
+      "sha256": "e1bb769554b576d7a085cee8b0e4066f4ec296851cdcf141f106e0fb84af1772"
+    },
+    {
+      "path": "data/raw/economic-events/wto-soviet-history.json",
+      "size_bytes": 16346,
+      "sha256": "7dae6a474b25b2c5eb9bac89e13943fc25004b129fbca320628f6b4094012378"
+    },
+    {
+      "path": "data/raw/economic-events/wto-timeline.json",
+      "size_bytes": 16304,
+      "sha256": "8b7c947190dc446b8acc99a82274b5a863b00185bfe0913d114c92e878b383a1"
+    },
+    {
+      "path": "data/raw/events-1995-2000.json",
+      "size_bytes": 38584,
+      "sha256": "3e34373e73b2d64823baff4282600bfeabf9baf5862b1f8e9510fc1c8348f433"
+    },
+    {
+      "path": "data/raw/events-2001-2006.json",
+      "size_bytes": 13322,
+      "sha256": "dc32c36f7ef0a9385a873477548f647d695b530d30052fcb9fcbd1feb66371ad"
+    },
+    {
+      "path": "data/raw/events-2007-2012.json",
+      "size_bytes": 15657,
+      "sha256": "56c71bcc443ac8fbc729f103c019d6aaee24de5214d9c911d2cee417e0991795"
+    },
+    {
+      "path": "data/raw/events-2013-2017.json",
+      "size_bytes": 16289,
+      "sha256": "c5e35b2bc4d54062b5e8ff432106207dfcba760c2b30bff6dcd56bbc0376c0c3"
+    },
+    {
+      "path": "data/raw/events-2018-2021.json",
+      "size_bytes": 13427,
+      "sha256": "1086c6be9228155d9c2c636edaddf33e62247d1ffc42f4985a0af5bc0dddecab"
+    },
+    {
+      "path": "data/raw/events-2022-2025.json",
+      "size_bytes": 21091,
+      "sha256": "4127baa29e885384210de6aff8a518c8c7d17d7f5ae181fe9be44ad017d2e482"
+    },
+    {
+      "path": "data/raw/fred-gdpdef-1960-1970.csv",
+      "size_bytes": 816,
+      "sha256": "e1fe950154eacf071821f62829bf5e7a719080920418a21057b85d4c5ea02cb7"
+    },
+    {
+      "path": "data/raw/fred-gdpdef-1960-1992.csv",
+      "size_bytes": 2400,
+      "sha256": "8465c449869415d152f4468b113eac213ba05d3582d8929ce7313be99526d2ef"
+    },
+    {
+      "path": "data/raw/full-events-1960-1966.json",
+      "size_bytes": 15041,
+      "sha256": "f63ecf77659f57532b7e60f87cb8221b59090022e169439b051260f9828e6061"
+    },
+    {
+      "path": "data/raw/full-events-1967-1978.json",
+      "size_bytes": 11967,
+      "sha256": "28ce43a650e80f3780fc190a77669118e263760ce45b23a24a0610054e75ca5e"
+    },
+    {
+      "path": "data/raw/full-events-1979-1987.json",
+      "size_bytes": 9793,
+      "sha256": "8e250d0fe53291e30828f76a8ffca1d479f8ffb27b84fe58a8ce8eaa2cb02411"
+    },
+    {
+      "path": "data/raw/full-events-1988-1994.json",
+      "size_bytes": 14032,
+      "sha256": "4d13584ef1bf9a273c29b4e7cb315d1cbe2171aa937a6fbbf5e2f883304311d9"
+    },
+    {
+      "path": "data/raw/maddison-owid-gdp.csv",
+      "size_bytes": 508481,
+      "sha256": "86b1fae7e6219f258613367599f659cf15d752be3aef13231c9d814ac444fbd7"
+    },
+    {
+      "path": "data/raw/maddison-owid-gdp.metadata.json",
+      "size_bytes": 3260,
+      "sha256": "d78982bb739ed801357d28b0d0aadda6c4062b8d4dbf41f3e3e07f42e2059520"
+    },
+    {
+      "path": "data/raw/worldbank-countries.json",
+      "size_bytes": 113954,
+      "sha256": "c9acf3932785191a649cbc04c3056af4cf64a236e5c3b49d49be25ddb0440bce"
+    },
+    {
+      "path": "data/raw/worldbank-gdp.json",
+      "size_bytes": 3691618,
+      "sha256": "df62232ba866a5d8b7831e7930d458301be5ed72adc86f52df529ede59c0f1b9"
+    },
+    {
+      "path": "data/soviet-1991-estimate.json",
+      "size_bytes": 693,
+      "sha256": "ce0d63a0f54358be04fdbe7618af0441295d6fbdd4b73812cfe7d627bdefe455"
+    },
+    {
+      "path": "data/soviet-gdp-1960-1970-estimates.csv",
+      "size_bytes": 1152,
+      "sha256": "5694e7afc6f7d8d65ae9799c8512608d91d81569f9547fe9e5c41fcf6ca8169c"
+    },
+    {
+      "path": "data/soviet-gdp-1960-1970-method.json",
+      "size_bytes": 7546,
+      "sha256": "ae233ae63a39cf0a12b3442605eaab94d42454cf4d07242e09ca00dc4a12796f"
+    },
+    {
+      "path": "data/un-historical-gdp.json",
+      "size_bytes": 4768,
+      "sha256": "46695bb4f0da1dee3e883d6d5cc394230c4896fe09e4b701619e2e98422e3d67"
+    },
+    {
+      "path": "data/world-gdp-top10-1960-2025-draft.csv",
+      "size_bytes": 38782,
+      "sha256": "42346a18d2b3a598357c158833af633af20535d82bc5f47b8d54516f95f4e2b1"
+    },
+    {
+      "path": "deliverables/README.md",
+      "size_bytes": 763,
+      "sha256": "43800f43f59b7fae7a305589e781c98da251ec9ec08723e2be63adfb7a442a94"
+    },
+    {
+      "path": "deliverables/world-gdp-1960-2025-history-smooth-motion-2x-v9-picture.mp4",
+      "size_bytes": 21515886,
+      "sha256": "9fae3ea65759d7b00ed2792f0ec02c4d967189d2da8ea881b112939c498db8c0"
+    },
+    {
+      "path": "deliverables/world-gdp-stock-fire-v16-preview.mp4",
+      "size_bytes": 1285809,
+      "sha256": "9128baecdb3fe6adf30bdeb4cbbae81ffa52b2307f5011bfada2eae0e303d1b9"
+    },
+    {
+      "path": "references/3759-download-entry.html",
+      "size_bytes": 2693,
+      "sha256": "e03ae01f5863796dcf123fbc60a2042de01219c5c844a8028f5e6cc0e8597693"
+    },
+    {
+      "path": "references/3759-page.html",
+      "size_bytes": 95983,
+      "sha256": "1320cf4511f60a7323f82cea731c3c918377cf637dbc0ba6f1bf85d6a6cd73b4"
+    },
+    {
+      "path": "references/52302-page.html",
+      "size_bytes": 94440,
+      "sha256": "f9ec5fbbac17675d24073e5e12277e304cea127319fd9c4c9ba8539a8f4e5b9b"
+    },
+    {
+      "path": "references/DATA_SOURCES.md",
+      "size_bytes": 2531,
+      "sha256": "97ba095aa5e5df4c108b84abb6432dc238f4a7231d3b81cd084e1e2e61d83dc9"
+    },
+    {
+      "path": "references/baseline-rankings.json",
+      "size_bytes": 2087690,
+      "sha256": "94b46274089b0461f07baea28ade1afd202fc825372bb901f621fce5184b44be"
+    },
+    {
+      "path": "references/free-license.html",
+      "size_bytes": 1661,
+      "sha256": "06ab8f1767d057815f0154ccfd8118348a51ff214aa51e70517d135fc731ad1b"
+    },
+    {
+      "path": "references/sources.json",
+      "size_bytes": 1930,
+      "sha256": "8b10a82e5c2626afae5bdc1efcd0e776c59ff6c6f158b56a5cba1dc893b0419c"
+    },
+    {
+      "path": "references/stock-inputs.json",
+      "size_bytes": 1320,
+      "sha256": "5680d3c022ab0e23598e436b3c964d8549670cc401191eee47c7942614365b2b"
+    },
+    {
+      "path": "references/terms.html",
+      "size_bytes": 80276,
+      "sha256": "d53e22210623883dac9fbe753dc1937d19f7545712a3ba2193ee20998405ac12"
+    },
+    {
+      "path": "references/v16-stock-fire.json",
+      "size_bytes": 1134,
+      "sha256": "e6365f746919a09288b5e18e42231232a49e389898481d6cfdb40b378ab88688"
+    },
+    {
+      "path": "references/v4-flag-sources.json",
+      "size_bytes": 1516,
+      "sha256": "4e239753b0266ae38a46c1471d8bfd5d121eafb2d672ee1b392568391794d420"
+    },
+    {
+      "path": "requirements.txt",
+      "size_bytes": 30,
+      "sha256": "9c46255c62ac31b73fd8e177fbf7f3005eb83873241ed070822db66951e0943a"
+    },
+    {
+      "path": "scripts/bar_flame.py",
+      "size_bytes": 3057,
+      "sha256": "7563d0c57e86205abbcb486a8034051d8348fcf872b9bf296fef4c95f708c39a"
+    },
+    {
+      "path": "scripts/check_bundle.py",
+      "size_bytes": 584,
+      "sha256": "76fb62b2b6580a8e34ca5b24673bdf0af6fd2939bfe0cc797967c67f3880c910"
+    },
+    {
+      "path": "scripts/economic_events.py",
+      "size_bytes": 16870,
+      "sha256": "162a0f8f295537b698417bad789fb95540c6ebe81dca0ad81020b9c07f335f28"
+    },
+    {
+      "path": "scripts/fetch_stock_fire.py",
+      "size_bytes": 2424,
+      "sha256": "24fa937f614e423500c5920f4a9fd5796a774adf07f378fedc0ee31ff5c02f5e"
+    },
+    {
+      "path": "scripts/four_acts.py",
+      "size_bytes": 14127,
+      "sha256": "4761b11776a2934dc06ad07814739059115f9ec4775b640dbc9799945c96a688"
+    },
+    {
+      "path": "scripts/full_data.py",
+      "size_bytes": 16164,
+      "sha256": "a06f5f4148a1f2fc50b85baf41eb77dea05aab07a60e50412645a66c6639a26b"
+    },
+    {
+      "path": "scripts/historical_events.py",
+      "size_bytes": 5487,
+      "sha256": "9a1d201ca7693443b84e23cfc20ead655cb37082d7b8de443abfa6b06653d900"
+    },
+    {
+      "path": "scripts/mix_bgm.py",
+      "size_bytes": 4087,
+      "sha256": "c538c146ad52e5ca5c9264b139aa2da171a918ddf9ee5f6e8f6759b237553598"
+    },
+    {
+      "path": "scripts/motion.py",
+      "size_bytes": 2537,
+      "sha256": "965d10ce62148a7597636b44b7d1c3db927be1e27ebd6c1e21f841ffda472c73"
+    },
+    {
+      "path": "scripts/paths.py",
+      "size_bytes": 260,
+      "sha256": "bf73bf6756da379a7b465ec1bd812fb97029f7697a67815b4049195a1f7de1ac"
+    },
+    {
+      "path": "scripts/power_aura.py",
+      "size_bytes": 5372,
+      "sha256": "61f654ecddc9869c6b72e5e06f0d4a2480ed68534d3488cf961116b3600a421b"
+    },
+    {
+      "path": "scripts/refresh_manifest.py",
+      "size_bytes": 899,
+      "sha256": "b566d692bccc32de6ebda5c0f1ff87b9f5cdfe77751c32bacb2b2ceb39ca9836"
+    },
+    {
+      "path": "scripts/render_demo.py",
+      "size_bytes": 13452,
+      "sha256": "d4cf5f780d7d3ec8c3e4a769a1ffa6dd4aa7095c5956c482612073ad09e65cd4"
+    },
+    {
+      "path": "scripts/render_four_acts.py",
+      "size_bytes": 4260,
+      "sha256": "c8ada1119262315c9ceb34f86a1ce7cb57c7d51f469ab36350d698d1df5c5c75"
+    },
+    {
+      "path": "scripts/render_full.py",
+      "size_bytes": 15921,
+      "sha256": "a846db34dacc25b65ddb4122673c607acdb565333093109b87c8cd2d7daafc28"
+    },
+    {
+      "path": "scripts/render_stock_fire.py",
+      "size_bytes": 3319,
+      "sha256": "d5748927c2e46682bbfbc6730aaaf571bbafe566685b4e6cdd6b21c856f9daf4"
+    },
+    {
+      "path": "scripts/render_storyboard.py",
+      "size_bytes": 2417,
+      "sha256": "d629d6e5f6d7897265bc0a2ce045ea99354f3812072ac7202177dfd7fe3538f9"
+    },
+    {
+      "path": "scripts/side_fire.py",
+      "size_bytes": 2956,
+      "sha256": "77a2398731eaf6e74950fb2f61d496aee691b9c8358d12d33fb34d0893e191bb"
+    },
+    {
+      "path": "scripts/stock_fire.py",
+      "size_bytes": 3029,
+      "sha256": "53e1e07b00f6e4e50f8d904db6e637631a6a4fc7876cf1cba0016120ba90e490"
+    },
+    {
+      "path": "scripts/storyboard.py",
+      "size_bytes": 3608,
+      "sha256": "b5f1732acc551f1e710055750e9080566f82e64bf3bef9bbf316eb0c9e1e4a1e"
+    },
+    {
+      "path": "scripts/verify_render.py",
+      "size_bytes": 1781,
+      "sha256": "c789e2d18b4559a50eee2d3b91e94fe28da3e325d6869e809c49401ac0d6fd8f"
+    },
+    {
+      "path": "tests/run_tests.py",
+      "size_bytes": 386,
+      "sha256": "0c717a042737525f52ca58f3df10603f1d1af1723dbc447d22783e48cb16f997"
+    },
+    {
+      "path": "tests/test_bar_flame.py",
+      "size_bytes": 3153,
+      "sha256": "325c2d1e3f6fc6b22067dd315cea6ea0e380cc2ff81f5292741d66cae1ce8605"
+    },
+    {
+      "path": "tests/test_bundle.py",
+      "size_bytes": 1435,
+      "sha256": "5e02ad3ae68ee8442a15c3c3cafcc28bffeb855bcd629ddc2dc9c539c8b3c327"
+    },
+    {
+      "path": "tests/test_demo.py",
+      "size_bytes": 2526,
+      "sha256": "103b8deb0b63a389d4282138b51aa2d344be8875b9f5a2fe6479ed1e7d34f5ca"
+    },
+    {
+      "path": "tests/test_estimate_soviet.py",
+      "size_bytes": 1184,
+      "sha256": "b3a984e3ff1f04920dc6b3405a10f672cca9aaa3d4c9c0bcc54c0c981ebb2322"
+    },
+    {
+      "path": "tests/test_four_acts.py",
+      "size_bytes": 2754,
+      "sha256": "5b990d976c211d82734f4beb468304b037bd8ada187ffbeea9ec0d921e3fd995"
+    },
+    {
+      "path": "tests/test_full.py",
+      "size_bytes": 12346,
+      "sha256": "fb3c4ea39d1cbf5a7b1cdf91de3407cfeeb13af65eec9a03aec1adf24a2108a9"
+    },
+    {
+      "path": "tests/test_motion.py",
+      "size_bytes": 1441,
+      "sha256": "ac20d60c93e0ab96539052f195be50b24d5ac9a1e5d8d9f30b82f6a57236b382"
+    },
+    {
+      "path": "tests/test_power_aura.py",
+      "size_bytes": 2779,
+      "sha256": "0136651340946e95077f7c4f32fa24540d70c12644c36f808fbc8e6ebc0c8378"
+    },
+    {
+      "path": "tests/test_prepare.py",
+      "size_bytes": 1337,
+      "sha256": "010c48d4f51440261b748cbae40111340285fc4cb66c125ddfe80317c551c276"
+    },
+    {
+      "path": "tests/test_side_fire.py",
+      "size_bytes": 2158,
+      "sha256": "783dc537d9453ef34d284c8890a25ab6b13bc3aa59d9598f3b444a450e785ff2"
+    },
+    {
+      "path": "tests/test_stock_fire.py",
+      "size_bytes": 2460,
+      "sha256": "accef13bbd445fff75efec11be0741914d7e3bb0aa044eb5524d37508e4cb97b"
+    },
+    {
+      "path": "tests/test_storyboard.py",
+      "size_bytes": 2977,
+      "sha256": "a522a84380a4f87f64ef8dc4331ce7780c1fdb8df6370dcb440d07c50df02375"
+    }
+  ],
+  "excluded": [
+    "output/",
+    "assets/local-only/",
+    "__pycache__/"
+  ]
+}

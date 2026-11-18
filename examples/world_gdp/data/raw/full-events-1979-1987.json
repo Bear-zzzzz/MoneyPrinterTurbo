@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "title": "1980s - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1980s",
+      "snippet": "<br>3. 1982<br>4. 1983<br>5. 1984<br>\n1. 1980<br>2. 1981<br>3. 1982<br>4. 1983<br>5. 1984<br>1. 1985<br>2. 1986<br>3. 1987<br>4. 1988<br>5. 1989<br> |\nmusic.\n* TCP/IP: ARPANET officially changed its main protocol from NCP to TCP/IP on 1 January 1983, when the new protocols were activated.\nThe TCP/IP protocol will become the dominant communications protocol from then onwards, and would be used as the foundation on which the Internet would"
+    },
+    {
+      "title": "Montreal Protocol on Substances that Deplete the Ozone Layer",
+      "url": "https://enb.iisd.org/articles/montreal-protocol-substances-deplete-ozone-layer",
+      "snippet": "In fact, the 1985 Vienna Convention for the Protection of the Ozone Layer and the 1987 Montreal Protocol on Substances that Deplete the ..."
+    },
+    {
+      "title": "The Remarkable Story of the Montreal Protocol with ...",
+      "url": "https://www.stimson.org/2024/the-remarkable-story-of-the-montreal-protocol-with-lessons-for-cyberspace/",
+      "snippet": "In 1985 the Vienna Convention for the Protection of the Ozone Layer (Vienna Convention) was adopted as a “framework convention”—a stepping ..."
+    },
+    {
+      "title": "The Chernobyl Disaster: An Analysis of Technical Failures ...",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4850318",
+      "snippet": "Abstract\nThe Chernobyl explosion of April 26, 1986, remains one of the most catastrophic nuclear accidents in history, with profound environmental, health\nfor global nuclear policy.\nBy integrating scientific data, historical accounts, and policy analysis, this research aims to provide a comprehensive understanding of the Chernobyl"
+    },
+    {
+      "title": "Environmental law | Definition, History, Principles ...",
+      "url": "https://www.britannica.com/topic/environmental-law",
+      "snippet": "During the 1980s the “transboundary effects” of environmental pollution in individual countries spurred negotiations on several international environmental conventions. The effects of the 1986 accident at the nuclear power plant at Chernobyl in Ukraine (then part of the Soviet Union) were especially significant. European countries in the pollution’s downwind path were forced to adopt measures to restrict their populations’ consumption of water, milk, meat, and vegetables. In Austria traces of radiation were found in cow’s milk as well as in human breast milk. As a direct result of the Chernobyl disaster, two international agreements—the Convention on Early Notification of a Nuclear Accident and the Convention on Assistance in the Case of Nuclear Accident or Radiological Emergency, both adopted in 1986—were rapidly drafted to ensure notification and assistance in the event of a nuclear accident. In the following decade a Convention on Nuclear Safety (1994) established incentives for countries to adopt basic standards for the safe operation of land-based nuclear power plants.\nThere are often conflicting data about the environmental impact of human activities, and scientific uncertainty often has complicated the drafting and implementation of environmental laws and regulations, particularly for international conferences attempting to develop universal standards. Consequently, such laws and regulations usually are designed to be flexible enough to accommodate changes in scientific understanding and technological capacity. The Vienna Convention for the Protection of the Ozone Layer (1985), for example, did not specify the measures that signatory states were required to adopt to protect human health and the environment from the effects of ozone depletion, nor did it mention any of the substances that were thought to damage the ozone layer. Similarly, the Framework Convention on Climate Change, or Global Warming Convention, adopted by 178 countries meeting in Rio de Janeiro at the 1992 United Nations Conference on Environment and Development (popularly known as the “Earth Summit”), did not set binding targets for reducing the emission of the “greenhouse” gases thought to cause global warming."
+    },
+    {
+      "title": "Montreal Protocol on Substances that Deplete the Ozone ...",
+      "url": "https://www.dcceew.gov.au/environment/protection/ozone/montreal-protocol",
+      "snippet": "The Montreal Protocol on Substances that Deplete the Ozone Layer is an international agreement made in 1987. It was designed to stop use of ..."
+    },
+    {
+      "title": "About Montreal Protocol",
+      "url": "https://www.unep.org/ozonaction/who-we-are/about-montreal-protocol",
+      "snippet": "Adopted on 16 September 1987, the Protocol is to date one of the rare treaties to achieve universal ratification. The Montreal Protocol phases down the ..."
+    },
+    {
+      "title": "Technology Timeline - Weber State University",
+      "url": "https://www.weber.edu/digitalhistory/timeline.html",
+      "snippet": ": First Space Shuttle launched.\n1981: The IBM Personal Computer (PC) is brought to market.\nThe first is Columbia Data Products in 1982.\nThe Internet protocol TCP/IP becomes standard for the Internet. C++ is developed at Bell Labs by Bjarne Stroustrup."
+    },
+    {
+      "title": "International Treaties and Cooperation about the ...",
+      "url": "https://www.epa.gov/ozone-layer-protection/international-treaties-and-cooperation-about-protection-stratospheric-ozone",
+      "snippet": "the Ozone Layer\n\nThe original Montreal Protocol, signed in 1987, was the first step in international efforts to protect stratospheric ozone. Under the original Montreal Protocol agreement (1987), developed countries were required to begin phasing out CFCs in 1993 and achieve a 20% reduction relative to 1986 consumption levels by 1994 and a 50% reduction by 1998. Additionally, developed countries were required to freeze their production and consumption of halons relative to their 1986 levels. After the Montreal Protocol was signed, new data showed worse-than-expected damage to the ozone layer.\n\nThe Parties to the Montreal Protocol have amended the Protocol to enable, among other things, the control of new chemicals and the creation of a financial mechanism to enable developing countries to comply. The Montreal Protocol also includes a unique adjustment provision that enables the Parties to the Protocol to respond quickly to new scientific information and agree to accelerate the reductions required on chemicals already covered by the Protocol. These adjustments are then automatically applicable to all countries that ratified the Protocol. Since that time, the Montreal Protocol has been repeatedly strengthened by both controlling additional ozone-depleting substances (ODS) as well as by moving up the date by which already controlled substances must be phased out. In addition to adjustments and amendments to the Montreal Protocol, the Parties to the Protocol meet annually and take a variety of decisions aimed at enabling effective implementation of this important legal instrument.\n\nBecause of measures taken under the Montreal Protocol, emissions of ODS are falling and the ozone layer is expected to be fully healed near the middle of the 21st century. Learn more information on the current state of the ozone layer.\n\nAmendments to the Montreal Protocol\n\nThe London Amendment (1990) changed the ODS emission schedule by requiring the complete phaseout of CFCs, halons, and"
+    },
+    {
+      "title": "Final report on TCP/IP migration in 1983",
+      "url": "https://www.internetsociety.org/blog/2016/09/final-report-on-tcpip-migration-in-1983/",
+      "snippet": "the ARPANET!\n\nThe immediate impact of TCP/IP adoption was a huge increase in the available address space, as 32 bits allows for approximately 4 billion hosts. Unfortunately, this address space was not allocated efficiently due to router limitations and the way existing NCP addresses were transitioned. For example, Ron’s network became the Class A address 10.0.0.3 with 16 million possible hosts, which even accounting for the growth in the Internet, proved to be far more than necessary and was eventually returned to IANA.\n\nHowever, another consequence was that hosts no longer needed to be directly connected to an IMP, which allowed a network of networks to be built, exterior routing protocols to be run, and essentially created the Internet as we know it today.\n\nIt really is orange!\n\nIt really is orange!\n\nWith far more systems connecting to the Internet, another issue arose with respect to keeping track of how to access these. Host names were originally mapped to addresses in a downloadable file called HOSTS.TXT that was compiled by the Stanford Research Institute. Name conflicts arose though, and it became too much effort to maintain this file, which led to the development of the Domain Name System in 1983. It’s perhaps also worth pointing out that the first hacking incident occurred that year too, which meant system and eventually network security needed to be considered and which led to the development of the Orange Book standard.\n\nThe ARPANET’s research functions were eventually taken over by the US National Science Foundation-funded NSFNET, with its military role being taken over by the separate MILNET. It survived until 1990 when it was dismantled, with just a few artefacts remaining as testament to its pioneering role in the evolution of the Internet.\n\nPerhaps the one lesson to learn though, is that protocol transition can happen if there’s a strong incentive such as being disconnected. This happened before with the move to IPv4, and it can happen again with"
+    }
+  ]
+}

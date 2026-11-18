@@ -1,0 +1,28 @@
+{
+  "created_on": "2026-11-17",
+  "demo_period": [1970, 1975],
+  "unit": "billion current US dollars",
+  "dataset_sources": [
+    "https://api.worldbank.org/v2/country/all/indicator/NY.GDP.MKTP.CD?date=1960:2025&format=json&per_page=20000",
+    "https://unstats.un.org/unsd/amaapi/api/file/2"
+  ],
+  "events": [
+    {"year": 1970, "title": "不扩散核武器条约生效", "source": "https://www.armscontrol.org/factsheets/timeline-nuclear-nonproliferation-treaty-npt"},
+    {"year": 1971, "title": "联合国大会通过第2758号决议", "source": "https://digitallibrary.un.org/record/192054/files/A_RES_2758%28XXVI%29-EN.pdf"},
+    {"year": 1972, "title": "斯德哥尔摩人类环境会议", "source": "https://www.un.org/en/conferences/environment/stockholm1972"},
+    {"year": 1973, "title": "石油禁运与能源危机", "source": "https://history.state.gov/milestones/1969-1976/oil-embargo"},
+    {"year": 1974, "title": "罗马世界粮食会议", "source": "https://history.state.gov/historicaldocuments/frus1969-76ve14p1/d153"},
+    {"year": 1975, "title": "赫尔辛基最后文件签署", "source": "https://history.state.gov/milestones/1969-1976/helsinki"}
+  ],
+  "flags": {
+    "contemporary_demo_countries": "https://flagcdn.com/w160/{iso2}.png",
+    "USSR": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/330px-Flag_of_the_Soviet_Union.svg.png"
+  },
+  "limitations": [
+    "Cross-source demonstration, not a certified complete historical top ten.",
+    "German series is labeled West Germany in this period; East Germany and historical boundary completeness remain under review.",
+    "Historical candidate countries and successor exclusions applied; small/missing economies remain under review.",
+    "Events are historical context, not claims of causation of GDP or rank changes.",
+    "No BGM or narration; numeric and row movements are visual interpolation."
+  ]
+}

@@ -13,8 +13,8 @@
     },
     {
       "path": "README.md",
-      "size_bytes": 4854,
-      "sha256": "f0b7cb4db974133c6cc0778d693f13da65560907b4580c79b3bcb1b03f6e4370"
+      "size_bytes": 5132,
+      "sha256": "6eacfa03070d3a2d5c1288df7c862916e3b1110867bde7ccbd187156985bbaf1"
     },
     {
       "path": "assets/flags/BRA.png",
@@ -383,8 +383,8 @@
     },
     {
       "path": "deliverables/README.md",
-      "size_bytes": 763,
-      "sha256": "43800f43f59b7fae7a305589e781c98da251ec9ec08723e2be63adfb7a442a94"
+      "size_bytes": 944,
+      "sha256": "e80e4f7e5f1501e67a59bed1fa13d3d88adc1f178fa3b97f70b0a4c8dbe6f324"
     },
     {
       "path": "deliverables/world-gdp-1960-2025-history-smooth-motion-2x-v9-picture.mp4",

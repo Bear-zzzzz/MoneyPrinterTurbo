@@ -56,7 +56,15 @@ python examples/world_gdp/scripts/fetch_stock_fire.py --accept-license
 
 曾试过的手绘火焰脚本为回归/历史方案保留：`--bar-flame`、`--side-fire`、`--power-aura`，不作为推荐效果。较早 `render_demo.py` 的数字翻滚仅是历史实验；新 `render_full.py` 不采用数字翻滚。
 
-音乐尚缺用户指定的三首实际文件。提供文件后可执行：
+## 计划使用的 BGM
+
+按以下顺序播放，用于营造激情、紧张的氛围：
+
+1. **CHASHKAKEFIRA — BARRETE!**
+2. **CHASHKAKEFIRA — COLLAR!**
+3. **Lunak — PASSO FUNK**
+
+当前仅记录歌曲名称，实际音频文件与使用授权尚未提供；提交随附的视频仍无音轨，不表示音乐已合成。提供文件后可执行：
 
 ```bash
 python examples/world_gdp/scripts/mix_bgm.py --music /path/BARRETE.mp3 /path/COLLAR.mp3 /path/PASSO_FUNK.mp3
